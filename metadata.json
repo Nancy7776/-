@@ -1,0 +1,7 @@
+{
+  "name": "3D Particle Christmas Magic",
+  "description": "An immersive 3D particle Christmas tree with hand gesture interactions, morphing shapes, and golden light trails.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
